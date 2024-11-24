@@ -1,10 +1,5 @@
-#  ELiteTech Intern 
-My All Task giving me by  ELiteTech Intern 
+# Harsh Singh Rao
+# Cybersecurity Enthusiast | Ethical Hacker | Aspiring OS Developer
 
-# Task List
-1. Caesar Cipher Encryption and Decryption🔐 (Task1)
-
-2. Password Complexity Checker🔑 (Task2)
-
-3. Simple Text Logger in Python🖥️  (Task3)
+Harsh Singh Rao is a passionate cybersecurity professional with a robust foundation in ethical hacking and network security. Armed with industry-recognized certifications, including CEH v12, (ISC2|CC), and specialized diplomas in Cybersecurity, Hardware Networking, and Computer Applications, Harsh is committed to making digital spaces safer.
  

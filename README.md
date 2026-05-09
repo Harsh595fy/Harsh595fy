@@ -83,16 +83,26 @@ When I'm not breaking (and fixing) things, I'm building open-source security too
   <img src="https://img.shields.io/badge/Diploma-Cyber%20Security-%239B59B6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Diploma Cyber Security"/>
 </p>
 
-| 🏅 Certification | 🏛️ Issuing Organization | 📅 Year |
-|------------------|---------------------------|---------|
+| 🏅 Certification | 🏛️ Issuing Organization | 📅 Date / ID |
+|------------------|--------------------------|--------------|
 | **Certified Ethical Hacker (CEH v12)** | EC-Council | 2024 |
 | **Certified in Cybersecurity (CC)** | (ISC)² | 2024 |
-| **Ethical Hacking Expert (EHE)** | EC-Council / Udemy | 2024 |
+| **Ethical Hacking Essentials (EHE)** | EC-Council | Jan 2023 · `225775` |
 | **Junior Cybersecurity Analyst Career Path** | Cisco | 2024 |
+| **Certified API Security Analyst** | APIsec University | Apr 2026 |
+| **APIsec Certified Practitioner** | APIsec University | Mar 2026 |
+| **iOS Pentesting** | Redfox Cybersecurity Academy | Mar 2026 · `REDFOXIOS1003` |
+| **Certified VAPT** | Techonquer | Apr 2025 · `TVAPT150` |
+| **Certified SOC Analyst (TCSA)** | Techonquer | Nov 2025 . `TCSA2025135` |
+| **Geo-data sharing and Cyber Security** | ISRO - Indian Space Research Organization | Dec 2024 |
+| **Cyber Hygiene Practices** | Ministry of Electronics and Information Technology | Apr 2024 · `CDACHYD/ISEA/CHP/131451` |
+| **Digital Forensics Essentials (DFE)** | EC-Council | Jun 2023 · `229245` |
+| **Network Defence Essentials (NDE)** | EC-Council | Jun 2023 · `227917` |
 | **Google Advanced Dorking** | CyberLand Sec Academy | 2024 |
 | **Open Source Intelligence (OSINT)** | — | 2024 |
-| **Diploma in Cyber Security** | — | — |
-| **Diploma in Computer Applications (DCA)** | — | — |
+| **Diploma in Cyber Security** | Alison | Nov 2023 |
+| **Diploma in Computer Applications (DCA)** | STP Computer Education | Dec 2023 · `159737` |
+| **Diploma in Software Engineering** | Academy Europe Open University | Jan 2023 |
 | **TryHackMe Top 1%** | TryHackMe | Ongoing |
 
 ---
@@ -305,14 +315,14 @@ A lightweight AI application built with **JavaScript**, **HTML**, and **Python**
 
 ```ascii
 ┌─────────────────────────────────────────────────────┐
-│  🎖️  INDIAN ARMY CYBER SECURITY DIVISION           │
+│  🎖️  INDIAN ARMY CYBER SECURITY DIVISION            │
 │                                                     │
-│  "Protecting the Nation in Cyberspace"               │
+│  "Protecting the Nation in Cyberspace"              │
 │                                                     │
-│  ▌ Training: Offensive Security & Red Teaming        │
-│  ▌ Skills: Penetration Testing, OSINT, Malware       │
-│  ▌ Tools: AI-Powered Security Solutions              │
-│  ▌ Mindset: Continuous Learning & Service            │
+│  ▌ Training: Offensive Security & Red Teaming       │
+│  ▌ Skills: Penetration Testing, OSINT, Malware      │
+│  ▌ Tools: AI-Powered Security Solutions             │
+│  ▌ Mindset: Continuous Learning & Service           │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
